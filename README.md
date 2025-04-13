@@ -26,7 +26,7 @@ Passo a passo:
 - ./nome_do_programa
 
 OBSERVAÇÕES:
-- Plataforma utilizada para o desenvolvimento dos códigos: Todos os códigos no presente repositório foram desenvolvidos na plataforma Editor de Texto do Ubuntu;
+- Plataforma utilizada para o desenvolvimento dos códigos: Editor de Texto do Ubuntu;
 - Compilação: Realizadas pelo GCC;
 - Sistema operacional da autora: Linux Ubuntu 24.04.02 LTS;
 - Versão do GCC: GCC 13.3.0.
